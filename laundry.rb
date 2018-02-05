@@ -1,5 +1,5 @@
 def wear(smell)
-  sample(:drum_bass_hard, rate: smell)
+  sample( :mehackit_robot7, rate: smell)
   sleep(2)
   print "sample was our wear from function"
 end
